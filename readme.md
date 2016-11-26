@@ -19,4 +19,5 @@
 
 - LTspice http://www.linear.com/solutions/ltspice
 - Qucs http://qucs.sourceforge.net/
+- Pythonxy https://python-xy.github.io/
 
