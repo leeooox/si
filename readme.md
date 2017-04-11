@@ -6,7 +6,7 @@
 
 - My personal blog(simplified chinese)  http://www.signal-integrity.org/
 
-- A slides about (dual-dirac jitter model)[http://htmlpreview.github.io/?https://github.com/leeooox/Dual_Dirac_Jitter_Model_Slides/blob/master/Dual_dirac_Jitter.html] 
+- A slides about [dual-dirac jitter model](http://htmlpreview.github.io/?https://github.com/leeooox/Dual_Dirac_Jitter_Model_Slides/blob/master/Dual_dirac_Jitter.html)
 
 ## Modeling
 
